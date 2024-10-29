@@ -1,0 +1,69 @@
+.sat_theme_lite .widget-top {
+	display: none;
+}
+
+.sat_theme_lite {
+	color: #49525c;
+}
+
+.sat_theme_lite .widget-inside {
+	border: 0;
+	box-shadow: none;
+}
+
+.sat_theme_lite label {
+	font-weight: normal;
+	margin-bottom: 0px;
+}
+
+.sat_theme_lite .wrap {
+	background-color: #f3f3f3;
+	padding: 10px;
+	border-radius: 5px;
+	border: 1px solid #dadada
+}
+
+.sat_theme_lite input[type=submit], .sat_theme_lite .button-primary {
+	text-transform: uppercase;
+	color: #fff;
+	background-color: #e45044;
+	border-color: transparent;
+	display: inline-block;
+	margin-bottom: 0;
+	font-weight: 700;
+	text-align: center;
+	vertical-align: middle;
+	touch-action: manipulation;
+	cursor: pointer;
+	background-image: none;
+	border: 1px solid transparent;
+	white-space: nowrap;
+	padding: 0px 20px;
+	font-size: 15px;
+	line-height: 1.666;
+	border-radius: 6px;
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+	box-shadow: none;
+}
+
+.sat_theme_lite input[type=submit]:hover, .sat_theme_lite .button-primary:hover
+	{
+	background-color: #d62d1f;
+	box-shadow: none;
+}
+
+.sat_page .sat_padded {
+	padding: 15px !important;
+	text-align: center;
+}
+
+.sat_theme_lite select {
+	border: 1px solid #dadada;
+}
+
+#sat_error-modal span.ui-icon.ui-icon-circle-check {
+	display: none;
+}
